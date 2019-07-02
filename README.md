@@ -8,7 +8,7 @@ and submitted on 1 july 2019.
 4. The review is 5 star from last 5 years.
 5. Many fashion shows are held by Beautifulme.
 
-6. The link of my prject is https://sneha-meshram.github.io/bootstrapHtml-assignment1/.
+6. The link of my prject is https://sneha-meshram.github.io/html-bootstrap-assignmnt1/.
 7. the project is done by sneha meshram.
 8. The keywords that are uses here:
   - jumbotron
