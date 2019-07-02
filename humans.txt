@@ -1,0 +1,12 @@
+# humanstxt.org/
+# The humans responsible & technology
+
+# TEAM MEMBER NAME
+
+    Sneha Meshram
+
+
+# TECHNOLOGY USE
+
+    CSS,HTML,bootstrap,960 gs, Js
+   

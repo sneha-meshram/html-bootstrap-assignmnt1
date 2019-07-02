@@ -1,0 +1,205 @@
+/* body styling */
+
+html{
+    height: 100%;
+   
+}
+
+img {
+    width:150px;
+    height: 100px;;
+}
+
+
+header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1037;
+    color: plum;
+    padding-bottom: 10px;
+}
+
+  /* navigation bar styling */
+  
+
+  img {
+    max-width: 100%;
+  }
+ 
+  .navbar-collapse .container-fluid {
+    padding: 2rem 2.5rem;
+    border-bottom: 1px solid plum;
+  }
+  
+  
+  .about {
+    float: left;
+    max-width: 30rem;
+    margin-right: 3rem;
+  }
+  
+
+  .navbar-brand img{
+    width: 100px;
+    height: 100px;
+  }
+
+  .nav-item{
+      margin: 1px;
+  }
+
+  .form-inline{
+    margin: 1px;
+  }
+  
+  
+
+  /*jumbotron styling*/
+
+  .jumbotron {
+    padding-top: 140px;
+    padding-bottom: 0px;
+    background-color:lightslategrey;
+  
+  }
+
+  .jumbotron-heading {
+    font-weight: 300;
+  }
+  
+  .jumbotron-container {
+    max-width: 40rem;
+    background:palevioletred;
+    padding: 0px;
+  
+  }
+  
+  .jumbotron p {
+    color:paleturquoise; 
+    text-shadow: 0 0 10px rgba(0,0,0,0.5);
+  }
+
+  /*carousel*/
+
+  .carousel{
+    padding-top:5px;
+    height: auto; 
+    width: 100%;
+}
+
+  .carousel img{
+    width:auto;
+    height: auto;
+    padding-bottom:10px;
+  }
+
+  .carousel-home{
+    padding-top:20px;
+  }
+
+
+  .middle{
+     background-color: deeppink;
+  }
+
+  .section-content {
+    padding: 5rem 0;
+  }
+
+  #site img{
+    width: 300px;
+    height: 300px;;
+  }
+
+  .grid {
+     padding-right: .9375rem; 
+     padding-left: .9375rem; 
+     margin-right: auto; 
+     margin-left: auto; 
+     padding-top: 50px;
+}
+
+  /* section*/
+
+
+  #about {
+    background: url('../img/about.jpg') center center no-repeat;
+    background-size: cover;
+  }
+
+  .about-text {
+    color:white;    
+    padding: 1.875rem;
+  }
+  .modal-body{
+    background: plum;
+  }
+
+  .modal-dialog{
+    background:pink;
+  }
+
+  .modal-content{
+    background:palevioletred;
+
+  }
+
+  .sec{
+      background: url('../img/about.jpg') center center no-repeat;
+   
+  }
+
+  /*tabbed pane */
+
+ .col-md-6 h1 {
+    color: cadetblue;
+  }
+
+  .tab-content{
+    margin-top:10px;
+    color:white;
+  }
+
+
+
+  /*footer styling*/
+  
+  #footer-main {
+    background:rgb(116, 12, 116);
+    color: white;
+    font-size: 0.8rem;
+    padding: 2.5rem 2.5rem;
+}
+  
+  
+  footer {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  }
+  
+  footer p {
+    margin-bottom: .25rem;
+  }
+
+  /* mapping style */
+  
+  
+  .map-container{
+    overflow:hidden;
+    padding-bottom: 50%;
+    position:relative;
+    height:2;
+    margin-right: 30%;
+    }
+    .map-container iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+    }
+    
+    
+    
